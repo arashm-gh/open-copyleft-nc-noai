@@ -1,4 +1,3 @@
-##### SPDX-License-Identifier: OCNCAI-1.0
 # Open Copyleft, Non-Commercial, No A.I.
 ## Permissions
 - You may **use**, **copy**, **modify**, and **share** this work for **non-commercial purposes only**.
